@@ -80,4 +80,10 @@ div#leftupper {
         margin-right: 0px;
         margin-left: -61px;
     }
+    p#social {
+        font-size: 19px;
+    }
+    p#bodysystems {
+        font-size: 19px;
+    }
   }
