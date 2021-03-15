@@ -1,0 +1,47 @@
+body {
+    background-image: url(./bg-01.jpg);
+    background-size: cover;
+}
+
+div#leftupper {
+    align-items: center;
+    padding: 50px;
+}
+
+.card {
+    box-shadow: 0 15px 30px 0 rgb(0 0 0);
+    transition: 0.3s;
+    margin-top: 50px;
+}
+
+#secondcard {
+    padding: 50px;
+}
+
+#thirdcard {
+    padding: 50px;
+}
+
+#fourthcard {
+    padding: 50px;
+}
+
+#fifthcard {
+    padding: 50px;
+}
+
+#sixthcard {
+    padding: 50px;
+}
+
+#seventhcard {
+    padding: 50px;
+}
+
+#date {
+    padding: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+    
+  }
