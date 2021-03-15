@@ -43,5 +43,10 @@ div#leftupper {
 }
 
 @media only screen and (max-width: 600px) {
-    
+    p.heading {
+        font-size: 19px;
+    }
+    #fourthcard {
+        padding: 15px;
+    }
   }
